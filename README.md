@@ -6,7 +6,7 @@ This project analyzes student engagement and purchasing behavior using SQL queri
 
 ## Video Instructions
 
-[Video Instructions](./Instructions.mp4)
+[![Video Instructions](./thumbnail.png)](./Instructions.mp4)
 
 ## Database Structure
 
